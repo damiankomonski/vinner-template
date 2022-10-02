@@ -1,6 +1,6 @@
 # Vinner - Creative and multipurpose template
 
-![Best template thumbnail](https://github.com/damiankomonski/vinner-template/blob/main/cover-image.png?raw=true)
+![Vinner template thumbnail](https://github.com/damiankomonski/vinner-template/blob/main/cover-img.png?raw=true)
 
 Vinner is multipurpose template which I created some time ago. This template is for artists, agencies, companies. It's clean. I designed whole graphic/UI and code.
 
